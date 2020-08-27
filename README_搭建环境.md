@@ -132,3 +132,12 @@
         npm run dev  ==> webpack-dev-server
         1). 在内存中编译打包, 生成内存中的打包文件
         2). 调动服务器, 运行内存中的打包文件  ==> 可以通过浏览器虚拟路径访问
+
+## git管理的6个基本操作
+    1. 创建本地仓库:
+        a. 创建.gitigonre文件
+        b. git init
+        c. 工作区 ==> 暂存区 git add .
+        d. 暂存区 ==> 本地库 git commit -m "msg"
+    
+    2. 创建远程仓库
